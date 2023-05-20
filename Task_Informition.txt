@@ -1,0 +1,14 @@
+
+
+
+
+
+
+  Create a todo list which include:
+
+1. CRUD Operation using SQL DB
+2. Upload Image using multer and store image info in DB table
+3. Authenticate api using jwt
+4. Relationship between image uploaded with multer and todo record in DB using primary and foreign key
+
+
